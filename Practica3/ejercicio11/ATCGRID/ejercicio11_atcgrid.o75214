@@ -1,0 +1,52 @@
+Id. usuario del trabajo: B3estudiante21
+Id. del trabajo: 75214.atcgrid
+Nombre del trabajo especificado por usuario: ejercicio11_atcgrid
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/B3estudiante21/practica3/ejercicio11
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+********** Tamanio 100 **********\n
+PMV version A
+Tiempo(seg.):0.000007502	 v1[0]=5150	 v1[99]=1505000
+PMV version B
+Tiempo(seg.):0.000837028	 v1[0]=5150	 v1[99]=1505000
+PMV version reduction
+Tiempo(seg.):0.000011359	 v1[0]=5150	 v1[99]=1505000
+********** Tamanio 1000 **********\n
+PMV version A
+Tiempo(seg.):0.000092510	 v1[0]=501500	 v1[999]=1500500000
+PMV version B
+Tiempo(seg.):0.009281362	 v1[0]=501500	 v1[999]=1500500000
+PMV version reduction
+Tiempo(seg.):0.010208792	 v1[0]=501500	 v1[999]=1500500000
+********** Tamanio 10000 **********\n
+PMV version A
+Tiempo(seg.):0.015058902	 v1[0]=50015000	 v1[9999]=1106413696
+PMV version B
+Tiempo(seg.):0.111643683	 v1[0]=50015000	 v1[9999]=1106413696
+PMV version reduction
+Tiempo(seg.):1.533006375	 v1[0]=50015000	 v1[9999]=1106413696
